@@ -1,5 +1,5 @@
 ## NATIONAL INSTITUTE OF STATISTICS OF RWANDA COMPETITION
-## DONE BY IHIMBANZWE Aristide
+## DONE BY IHIMBAZWE Aristide
 
 
 This project analyzes the Labour force highlights scenario in 2022 using Python. It includes data analysis, visualizations, and insights derived from the provided dataset from Nation Instutute of Statistics of Rwanda .
